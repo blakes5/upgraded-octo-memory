@@ -1,0 +1,24 @@
+Sexism in "Survivor": 
+Let's talk about my favorite television show, Survivor. It's been around for 20 years, it has 40 seasons, and yes, it is still going on (Season 41 is being filmed as I type this!). Now even though it is my favorite show, it does come with many problems. One of the main ones is sexism and the inequality that exists between men and women on the show. This exists in both the game of Survivor, in terms of how fair it is for men versus women, as well as in the show of Survivor, in how men versus women are portrayed on television. Also, a monumental distinction to make is that the game of Survivor is what happens out there on the island (or rainforest, desert, etc.) and how the production behind the scenes controls the game, through different twists and such. While the show of Survivor is the product that we, as the viewer, see on television. The show is a product of what happens in the game (for that season) and is the result of cutting hundreds of hours of footage to display exactly what they, behind the show, want to display to the viewer. This distinction between the game and the show of Survivor is extremely important to clarify. 
+
+The questions I will be answering:
+- How and where does sexism exist in the game of Survivor?
+- How and where does sexism exist in the show of Survivor?
+- Who is at "fault" and how can these inequalities be alleviated? (maybe there is a better way to put this)
+
+Why is this important?:
+Survivor can often be viewed as a microcosm of society. As in, the disparity between men and women here in Survivor represents a bigger issue about our society as whole. Most of the imbalances that exist in the show and game of Survivor are because of their existence in society as a whole too, beyond just Survivor. So, when I dive into certain issues like how women are portrayed on the television show of Survivor, that is relevant because it is connected to our pre-conceived beliefs of societal gender roles and has a much bigger impact than just on the game of Survivor. The data and information I will present in this project reflect some of the inherent bias in how we perceive men and women, at least in the more quantifiable ways. This will still be much more of a data-driven project, rather than a philosophical paper on gender roles, but it is important to draw the connection between sexism in Survivor and how that translates to sexism in real life.
+
+Dataset I will use: 
+I actually have my own Google Sheets spreadsheet I have been sporadically working on the past few years (because I really just am that big of a nerd of Survivor). I will use a specific few tabs on that sheet to highlight data involving a gender disparity in different aspects of Survivor. The [spreadsheet](https://docs.google.com/spreadsheets/d/1Gb377DdGNfzct0Nt9BYMF-moLXcxFxhOnePBQhIJ73s/edit#gid=741044694) is fairly messy right now, as not everything is up to date, but the pink tabs are the ones I will use for this project. I could make a new spreadsheet document just for the tabs I will use for that project if that makes it an easier resource to present, or maybe there is another way that would be better. I'm open to suggestions!
+A considerable amount of the data in that spreadsheet does just come from my own memory of having watched every season of Survivior and somehow remembering loads of minute details. But, the [Survivor Wiki](https://survivor.fandom.com/wiki/Main_Page) and [The True Dork Times](http://www.truedorktimes.com/survivor/boxscores/index.htm) were also resources I used to collect this data. The Survivor Wiki has data on every single season specifically, while the True Dork Times link has loads of different categories for neat Survivor statistics.
+
+Concerns about the problem, question, and data: 
+- I have this big idea down, but I am not exactly sure what questions specifically I want to answer
+    - I have questions above, but I do not know if there is a more specific topic within them I want to ask
+- I am also still unsure of exactly how I want to tie this into the bigger picture of society and display this as relevant beyond just Survivor
+- I feel like there is a multitude of compelling data I can use, between confessional counts, the number of idols found, the number of challenges won, and possibly some other ideas
+- In the past few seasons, some of these issues have been brought up in the episodes themselves, so the players in the seasons are becoming hyper aware of the sexism in the game, which makes this even more fascinating to me
+
+
+I originally made this in the messyMidtermFile.ipynb, which is why I formatted the text the way I did!
