@@ -1,0 +1,15 @@
+https://www.mlb.com/stats/pitching/innings-pitched/2019
+https://www.mlb.com/stats/pitching/innings-pitched/2019?page=2
+https://www.mlb.com/stats/pitching/innings-pitched/2019?page=3
+https://www.mlb.com/stats/pitching/innings-pitched/2019?page=4
+
+https://github.com/blakes5/upgraded-octo-memory/tree/main/scrapy_assignment/pitchingStats
+
+I am grabbing data from pitching statistics in MLB's 2019 season (the last full season they have had). 
+In particular, I have it sorted by "IP" (Innings Pitched). 
+There are 25 rows on each page, so I was planning on using the first 4 pages (which all have different URLs), for a total of 100 rows.
+
+
+
+
+I have not successfully created a JSON file or CSV file. I have been working on this for about 10 total hours (if not more) the past few days and have had difficulty following the tutorial and trying to do a (somewhat) similar process for the specific website I'm using, as this is my first time trying to scrape data. I have not used XPath or CSS before, or even HTML, so I have had to learn quite quickly for this assignment. Even though the final result of what I am submitting may not fully show it, I really have put a great deal of effort and thought into this assignment. 
