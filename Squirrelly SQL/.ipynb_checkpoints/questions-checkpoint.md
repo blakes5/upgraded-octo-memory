@@ -142,7 +142,10 @@ GROUP BY tag
 19. [JOIN, GROUP BY] For each item, how many distinct materials does it require?
 
 ```sql
-
+SELECT houseware.name, COUNT(recipe.amount)
+FROM houseware, houseware_recipe, recipe
+WHERE recipe.recipe_id = houseware_recipe.recipe_id AND houseware_recipe.houseware_id = houseware.id
+GROUP BY houseware.name
 ```
 
 20 [GROUP BY, ORDER, LIMIT] What are the top 10 materials used in recipes (calculated by totaling the amounts per material).
@@ -158,17 +161,26 @@ LIMIT 10
 21. [JOIN, WHERE] List all the recipes that require at least 10 star fragments
 
 ```sql
-
+SELECT houseware.name, recipe.amount
+FROM houseware, houseware_recipe, recipe
+WHERE recipe.material == 'star fragment' AND recipe.amount >= 10
+AND recipe.recipe_id = houseware_recipe.recipe_id AND houseware_recipe.houseware_id = houseware.id
 ```
 
 22. [JOIN, WHERE, GROUP BY, ORDER] What tag has the most recipes that require 'stone'?
 
 ```sql
-
+SELECT houseware.tag, COUNT(sell_price) as p
+FROM houseware, houseware_recipe, recipe
+WHERE recipe.material = 'stone' AND recipe.recipe_id = houseware_recipe.recipe_id AND houseware_recipe.houseware_id = houseware.id
+GROUP BY tag
+ORDER BY p DESC
 ```
 
 23. [JOIN, WHERE] Get the names and colors of all housewares.
 
 ```sql
-
+SELECT houseware.name as "houseware", variation_color.name as "color"
+FROM houseware, variation_color, variation
+WHERE variation_color.variation_id = variation.id AND variation.houseware_id = houseware.id
 ```
