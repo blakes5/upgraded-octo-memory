@@ -43,5 +43,5 @@ We can see that fan attendance is considerably decreasing and that the TTO % is 
     
     
     
-### Just a couple general concern: 
+### Just a general concern: 
 I want to look at the trend of TTO % over time, across several seasons. But I have not been able to find one dataset that succinctly has the % of TTO plate appearances every season, within a certain time span. I could get each of the team batting datasets from Baseball Reference for years 2012-2019, but that would be a lot of datasets, which I could do. And that might still be a viable option because I might want to look at a line graph (or bar graph because they are discrete?) of TTO % each season. 
