@@ -1,11 +1,11 @@
 # **The Three True Outcomes of Baseball**
 
 
-## Problem: 
+## Problem: /n
 The impact of the increase of the "Three True Outcomes" in Major League Baseball on fan attendance of games.
 
 
-## Background: 
+## Background: \n
 Throughout the past several seasons, Major League Baseball (MLB) [fan attendance has been decreasing](https://www.forbes.com/sites/maurybrown/2019/10/04/from-terrible-teams-to-rising-costs-and-more-why-mlb-attendance-has-been-down-over-7-since-2015/?sh=79f014c031a8). There are a variety of factors for this, but considering baseball is a multi-billion dollar industry that has a significant influence on American culture, a decrease in attendance is relevant. As a whole, Major League Baseball recorded [10.7 billion dollars](https://www.cnbc.com/2019/12/22/report-mlb-revenue-for-2019-season-a-record-10point7-billion.html) in revenue in the 2019 season. That is quite a significant portion of the money in the United States economy. And think about how prideful people are of their teams. Children will decorate their whole bedroom, make their wardrobe certain colors, have mugs and cups, all to show support for their favorite baseball team. People love baseball, and it is a big deal. From that coupled with a general growth in the population, one might expect that the attendance, one of the best measures of the sport's popularity, should be growing. 
     The "Three True Outcomes" (TTO) in baseball refer to Home Runs, Strikeouts, and Walks, which are 3 common outcomes of a plate appearance. They are grouped together in this statistic because all 3 of these outcomes only involve the batter, the Pitcher and the Catcher since the ball is never hit "in play" in these 3 outcomes (except for rare cases). It shrinks baseball up to an oversimplified version of the game where the 7 fielders behind the Pitcher are unecessary. But, why does the TTO matter? Think about it this way. Imagine you went to a baseball game where only TTO plate appearances happened (only Home Runs, Strikeouts, and Walks) for the entire game. That would be a seriously boring game, wouldn't it? While Home Runs are exciting, Strikeouts and Walks can be a bit of a drag, especially if they were a heavy majority of this hypothetical baseball game. Granted, certain strikeouts, or even [some walks](https://www.youtube.com/watch?v=OPWNmtK-SJA), can be exciting. But for the most part, more pitches batted in play makes for more exciting baseball to watch, which also means more TTO plate appearances translates to less exciting gameplay. 
 
