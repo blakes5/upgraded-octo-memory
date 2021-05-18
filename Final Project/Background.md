@@ -12,8 +12,10 @@ Think about a game of baseball. What makes it exciting? Close baseball games tha
 Now, baseball is not everyone's favorite sport. But, the people who are fans of baseball, get extremely invested. To the point that there is a word, sabermetrics, which is specifcially for the statistical analysis of baseball. The sport is a multi-billion dollar industry that has a significant influence on American culture. Children decorate their whole bedroom for a baseball team, people make their wardrobe certain colors, have mugs, cups, and blankets, all to show support for their favorite baseball team. People love baseball, and it is a big deal. And further on a macro scale, Major League Baseball recorded [10.7 billion dollars](https://www.cnbc.com/2019/12/22/report-mlb-revenue-for-2019-season-a-record-10point7-billion.html) in revenue in the 2019 season, which is quite a significant portion of the (money in the United States economy)[https://en.wikipedia.org/wiki/Economy_of_the_United_States]. 
 
 
-From that coupled with a general growth in the population, one might expect that the attendance, one of the best measures of the sport's popularity, should be growing. 
-Throughout the past several seasons, Major League Baseball (MLB) [fan attendance has been decreasing](https://www.forbes.com/sites/maurybrown/2019/10/04/from-terrible-teams-to-rising-costs-and-more-why-mlb-attendance-has-been-down-over-7-since-2015/?sh=79f014c031a8). There are a variety of factors for this, but considering baseball is a 
+-- Still need to add more background / context below
+
+
+From that coupled with a general growth in the population, one might expect that the attendance, one of the best measures of the sport's popularity, should be growing. Throughout the past several seasons, Major League Baseball (MLB) [fan attendance has been decreasing](https://www.forbes.com/sites/maurybrown/2019/10/04/from-terrible-teams-to-rising-costs-and-more-why-mlb-attendance-has-been-down-over-7-since-2015/?sh=79f014c031a8). There are a variety of factors for this, but considering baseball is a 
 multi-billion dollar industry that has a significant influence on American culture, a decrease in attendance is relevant. As a whole, Major League Baseball recorded [10.7 billion dollars](https://www.cnbc.com/2019/12/22/report-mlb-revenue-for-2019-season-a-record-10point7-billion.html) in revenue in the 2019 season. That is quite a significant portion of the money in the United States economy. 
 
 
